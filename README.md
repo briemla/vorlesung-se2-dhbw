@@ -16,3 +16,8 @@
 + Daniel Lindner
 
 ## Vorlesungsinhalt
+### TINF13 / B1
+
+### TINF13 / B2
+
+### TINF13 / B4
