@@ -21,3 +21,21 @@
 ### TINF13 / B2
 
 ### TINF13 / B4
+####29.09.2015
+*    Einführung: was ist Design
+*    Softwarekomplexität als Kombination von essential complexity, technical complexity und accidential complexity
+*    Auswirkungen von Komplexität
+*    Big Ball of Mud
+*    Warum braucht man Design
+*    Übersicht über DDD
+*    Grundideen des DDD:
+     *    Kollaboration, ubiquitous language
+     *    Fachwissen muss sich im Code wiederspiegeln
+     *    Fachlogik muss von Nebeneinflüssen isoliert werden
+*    Beispiel zu Vorlesungsplan-App ausgearbeitet (Prof, Sekretär, Dozent, Vorlesung, Veranstaltung, Raum, Kurs, Wahlmodul)
+*    Erläuterung Knowledge Crunching
+*    Strategisches und Taktisches DDD
+*    das Domänenmodell als Bindeglied zwischen strategischem DDD und taktischem DDD
+*    Value Objects
+*    Implementierung von ValueObjects in Java
+*    Exkurs: Specifications
