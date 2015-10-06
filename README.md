@@ -34,6 +34,29 @@
     *   Antwortverhalten
 *   Möglichkeiten zur Vermeidung der Blooper
 
+####06.10.2015
+#####UI Entwicklung
+*   Aufgabenverteilung in der UI Entwicklung
+*   Allgmeine Prinzipien zur UI Entwicklung
+    *  Benutzer und dessen Ziele sind wichtig
+    *  Konzeptionelles Modell
+*   Gestalt Prinzipien
+*   Gestaltungsrichtlinien
+
+#####Usability Testing
+*   Definition von Usability
+*   User Centered Design Process
+    *   Grobe Übersicht
+    *   Benutzerprofile
+    *   Iteratives Vorgehen
+*   Usability Test
+    *   Wichtige Elemente eines Tests
+    *   Testarten / Testumgebungen
+    *   Testablauf
+*   Experten Review
+    *   Ablauf
+    *   Evaluationsregeln
+
 ### TINF13 / B4
 ####29.09.2015
 *    Einführung: was ist Design
