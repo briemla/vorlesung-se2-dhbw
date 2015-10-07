@@ -17,6 +17,19 @@
 
 ## Vorlesungsinhalt
 ### TINF13 / B1
+####29.09.2015 (lindner)
+* Objektorientierte Prinzipien (Folienstand 2010)
+* SOLID
+* GRASP bis Polymorphie
+
+####06.10.2015 (lindner)
+* Objektorientierte Prinzipien (Folienstand 2015)
+* GRASP wdh. von Indirektion und Polymorphie
+* GRASP restliche Prinzipien
+* DRY
+* KISS
+* YAGNI
+* Conway's Law
 
 ### TINF13 / B2
 ####29.09.2015
