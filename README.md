@@ -71,7 +71,7 @@
     *   Evaluationsregeln
 
 ### TINF13 / B4
-####29.09.2015
+####29.09.2015 (beine)
 *    Einführung: was ist Design
 *    Softwarekomplexität als Kombination von essential complexity, technical complexity und accidential complexity
 *    Auswirkungen von Komplexität
@@ -89,3 +89,10 @@
 *    Value Objects
 *    Implementierung von ValueObjects in Java
 *    Exkurs: Specifications
+
+####06.10.2015
+*     Persisitierung von Value Objects
+*     Entities, Generierung von Identität
+*     Domain Services
+*     Aggregates, Transaktionsgrenzen, Lazy Loading, Aggregate Roots
+*     Repositories
