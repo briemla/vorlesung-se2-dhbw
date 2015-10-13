@@ -32,7 +32,7 @@
 * Conway's Law
 
 ### TINF13 / B2
-####29.09.2015
+####29.09.2015 (briem)
 *   Definition von Bloopern / GUI Bloopern
 *   Auswirkungen von Bloopern auf den Benutzer bzw. die Bedienung
 *   Ursachen durch die Blooper entstehen
@@ -47,7 +47,7 @@
     *   Antwortverhalten
 *   Möglichkeiten zur Vermeidung der Blooper
 
-####06.10.2015
+####06.10.2015 (briem)
 #####UI Entwicklung
 *   Aufgabenverteilung in der UI Entwicklung
 *   Allgmeine Prinzipien zur UI Entwicklung
@@ -69,6 +69,24 @@
 *   Experten Review
     *   Ablauf
     *   Evaluationsregeln
+
+####13.10.2015 (briem)
+#####Paper Prototyping
+*   Definition Paper Prototyping
+*   Erstellung eines Prototypen
+    *   Komponenten
+    *   Realismus des Prototyps / der Daten
+*   Usability Test mit Paper Prototyping
+*   Vergleich Paper Prototyping mit anderen Prototypen
+    *   Vor- / Nachteile
+    *   Auswahlkriterien für / gegen Paper Prototyping
+
+#####GUI Tests
+*    Gründe für GUI Tests
+*    Testarten
+*    Probleme skriptbasierter / automatischer GUI Tests
+*    Vor- / Nachteile einzelner Arten
+*    Vor- / Nachteile GUI Tests
 
 ### TINF13 / B4
 ####29.09.2015 (beine)
