@@ -19,17 +19,28 @@
 ### TINF13 / B1
 ####29.09.2015 (lindner)
 * Objektorientierte Prinzipien (Folienstand 2010)
-* SOLID
-* GRASP bis Polymorphie
+	* SOLID
+	* GRASP bis Polymorphie
 
 ####06.10.2015 (lindner)
 * Objektorientierte Prinzipien (Folienstand 2015)
-* GRASP wdh. von Indirektion und Polymorphie
-* GRASP restliche Prinzipien
-* DRY
-* KISS
-* YAGNI
-* Conway's Law
+	* GRASP wdh. von Indirektion und Polymorphie
+	* GRASP restliche Prinzipien
+	* DRY
+	* KISS
+	* YAGNI
+	* Conway's Law
+* Refactoring (Folienstand 2010)
+	* Einleitung
+	* Motivation
+	* Einfacher Entwicklungsprozess
+	* bis Exkurs Lokalitätsprinzip von Bugs
+
+####13.10.2015 (lindner)
+* Refactoring (Folienstand 2010)
+	* Ab Exkurs Lokalitätsprinzip von Bugs
+	* Code Smells
+	* Refactorings
 
 ### TINF13 / B2
 ####29.09.2015 (briem)
