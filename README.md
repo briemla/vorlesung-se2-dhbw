@@ -99,6 +99,11 @@
 *    Vor- / Nachteile einzelner Arten
 *    Vor- / Nachteile GUI Tests
 
+####20.10.2015 (lindner)
+* Objektorientierte Prinzipien (Folienstand 2015)
+	* SOLID
+	* GRASP bis Protected Variations
+
 ### TINF13 / B4
 ####29.09.2015 (beine)
 *    Einführung: was ist Design
