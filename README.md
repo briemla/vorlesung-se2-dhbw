@@ -144,3 +144,27 @@
     *   Interaktion
     *   Management
 *   Möglichkeiten zur Vermeidung der Blooper
+
+####26.10.2015 (briem)
+* Letzte Blooper Kategorie
+    *   Antwortverhalten
+*   Möglichkeiten zur Vermeidung der Blooper
+
+#####UI Entwicklung
+*   Aufgabenverteilung in der UI Entwicklung
+*   Allgmeine Prinzipien zur UI Entwicklung
+    *  Benutzer und dessen Ziele sind wichtig
+    *  Konzeptionelles Modell
+*   Gestalt Prinzipien
+*   Gestaltungsrichtlinien
+
+#####Usability Testing
+*   Definition von Usability
+*   User Centered Design Process
+    *   Grobe Übersicht
+    *   Benutzerprofile
+    *   Iteratives Vorgehen
+*   Usability Test
+    *   Wichtige Elemente eines Tests
+    *   Testarten / Testumgebungen
+    *   Testablauf
