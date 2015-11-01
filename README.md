@@ -104,6 +104,20 @@
 	* SOLID
 	* GRASP bis Protected Variations
 
+####27.10.2015 (lindner)
+* Objektorientierte Prinzipien (Folienstand 2015)
+	* GRASP restliche Prinzipien
+	* DRY
+	* KISS
+	* YAGNI
+	* Conway's Law
+* Refactoring (Folienstand 2010)
+	* Einleitung
+	* Motivation
+	* Einfacher Entwicklungsprozess
+    * Auswirkungen von Refactoring
+	* bis Exkurs Code Tuning
+	
 ### TINF13 / B4
 ####29.09.2015 (beine)
 *    Einführung: was ist Design
