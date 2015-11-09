@@ -35,8 +35,14 @@
 	* Motivation
 	* Einfacher Entwicklungsprozess
 	* bis Exkurs Lokalitätsprinzip von Bugs
+
+####13.10.2015 (lindner)
+* Refactoring (Folienstand 2010)
+	* Ab Exkurs Lokalitätsprinzip von Bugs
+	* Code Smells
+	* Refactorings
 	
-####20.09.2015 (beine)
+####20.10.2015 (beine)
 *    Einführung: was ist Design
 *    Softwarekomplexität als Kombination von essential complexity, technical complexity und accidential complexity
 *    Auswirkungen von Komplexität
@@ -77,12 +83,6 @@
       *    Domain Layer
       *    Application Service Layer
       *    Infrastructure Layer
-
-####13.10.2015 (lindner)
-* Refactoring (Folienstand 2010)
-	* Ab Exkurs Lokalitätsprinzip von Bugs
-	* Code Smells
-	* Refactorings
 
 ### TINF13 / B2
 ####29.09.2015 (briem)
