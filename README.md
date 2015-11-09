@@ -138,12 +138,29 @@
 *    Implementierung von ValueObjects in Java
 *    Exkurs: Specifications
 
-####06.10.2015
+####06.10.2015  (beine)
 *     Persisitierung von Value Objects
 *     Entities, Generierung von Identität
 *     Domain Services
 *     Aggregates, Transaktionsgrenzen, Lazy Loading, Aggregate Roots
 *     Repositories
+*     
+####05.11.2015  (beine)
+*     Wiederholung Aggregates
+*     Factories als allgemeines Konzept, Abstract Factory und Factory Method nicht Teil der Klausur
+*     Modules
+*     DDD in der Praxis
+      *   DDD führt zu Mehraufwand
+      *   Mehraufwand muss gerechtfertigt sein
+      *   wann lohnt sich DDD / wann nicht
+*     Onion Architecture
+      *    Klassisches Schichtenmodell
+      *    DIP
+      *    Umschichtung der Infrastrukturschicht
+      *    Domäne als isolierter Kern
+      *    Domain Layer
+      *    Application Service Layer
+      *    Infrastructure Layer
 
 ####19.10.2015 (briem)
 *   Definition von Bloopern / GUI Bloopern
