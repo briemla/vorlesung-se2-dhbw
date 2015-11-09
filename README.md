@@ -186,7 +186,7 @@
 *     Domain Services
 *     Aggregates, Transaktionsgrenzen, Lazy Loading, Aggregate Roots
 *     Repositories
-*     
+
 ####05.11.2015  (beine)
 *     Wiederholung Aggregates
 *     Factories als allgemeines Konzept, Abstract Factory und Factory Method nicht Teil der Klausur
