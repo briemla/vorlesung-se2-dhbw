@@ -35,6 +35,7 @@
 	* Motivation
 	* Einfacher Entwicklungsprozess
 	* bis Exkurs Lokalitätsprinzip von Bugs
+	
 ####20.09.2015 (beine)
 *    Einführung: was ist Design
 *    Softwarekomplexität als Kombination von essential complexity, technical complexity und accidential complexity
