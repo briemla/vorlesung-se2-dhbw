@@ -159,6 +159,13 @@
 	* Einfacher Entwicklungsprozess
     * Auswirkungen von Refactoring
 	* bis Exkurs Code Tuning
+
+####05.11.2015 (lindner)
+* Refactoring (Folienstand 2010)
+    * ab Exkurs Code Tuning
+	* Code Smells
+	* Spezifische Refactorings
+	* Zusatzmaterial: https://schneide.wordpress.com/2013/12/30/from-ugly-to-pretty-three-steps-is-all-it-takes/
 	
 ### TINF13 / B4
 ####29.09.2015 (beine)
@@ -264,3 +271,11 @@
 *    Probleme skriptbasierter / automatischer GUI Tests
 *    Vor- / Nachteile einzelner Arten
 *    Vor- / Nachteile GUI Tests
+
+####10.11.2015 (lindner)
+* Programming Principles
+	* Einleitung
+	* SOLID
+	* GRASP bis Mitte Kopplung
+	* Zusatzmaterial: Buch zu Interfaces https://pragprog.com/book/kpiod/interface-oriented-design
+	* Zusatzmaterial: Buch zu Interfaces und Ports and Adapters http://www.growing-object-oriented-software.com/
