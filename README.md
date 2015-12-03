@@ -84,6 +84,22 @@
       *    Application Service Layer
       *    Infrastructure Layer
 
+####27.11.2015 (briem)
+*   Definition von Bloopern / GUI Bloopern
+*   Auswirkungen von Bloopern auf den Benutzer bzw. die Bedienung
+*   Ursachen durch die Blooper entstehen
+*   Probleme die durch Blooper entstehen
+*   Einteilung der Blooper in unterschiedliche Arten
+    *   GUI Komponenten
+    *   Navigation
+    *   Texte
+    *   Design und Layout
+    *   Interaktion
+    *   Management
+    *   Antwortverhalten
+*   Möglichkeiten zur Vermeidung der Blooper
+
+
 ### TINF13 / B2
 ####29.09.2015 (briem)
 *   Definition von Bloopern / GUI Bloopern
