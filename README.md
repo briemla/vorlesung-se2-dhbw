@@ -99,6 +99,48 @@
     *   Antwortverhalten
 *   Möglichkeiten zur Vermeidung der Blooper
 
+####04.12.2015 (briem)
+#####UI Entwicklung
+*   Aufgabenverteilung in der UI Entwicklung
+*   Allgmeine Prinzipien zur UI Entwicklung
+    *  Benutzer und dessen Ziele sind wichtig
+    *  Konzeptionelles Modell
+*   Gestalt Prinzipien
+*   Gestaltungsrichtlinien
+
+#####Usability Testing
+*   Definition von Usability
+*   User Centered Design Process
+    *   Grobe Übersicht
+    *   Benutzerprofile
+    *   Iteratives Vorgehen
+*   Usability Test
+    *   Wichtige Elemente eines Tests
+    *   Testarten / Testumgebungen
+    *   Testablauf
+
+####11.12.2015 (briem)
+#####Usability Testing
+*   Experten Review
+    *   Ablauf
+    *   Evaluationsregeln
+
+#####Paper Prototyping
+*   Definition Paper Prototyping
+*   Erstellung eines Prototypen
+    *   Komponenten
+    *   Realismus des Prototyps / der Daten
+*   Usability Test mit Paper Prototyping
+*   Vergleich Paper Prototyping mit anderen Prototypen
+    *   Vor- / Nachteile
+    *   Auswahlkriterien für / gegen Paper Prototyping
+
+#####GUI Tests
+*    Gründe für GUI Tests
+*    Testarten
+*    Probleme skriptbasierter / automatischer GUI Tests
+*    Vor- / Nachteile einzelner Arten
+*    Vor- / Nachteile GUI Tests
 
 ### TINF13 / B2
 ####29.09.2015 (briem)
