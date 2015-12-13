@@ -337,3 +337,22 @@
 	* GRASP bis Mitte Kopplung
 	* Zusatzmaterial: Buch zu Interfaces https://pragprog.com/book/kpiod/interface-oriented-design
 	* Zusatzmaterial: Buch zu Interfaces und Ports and Adapters http://www.growing-object-oriented-software.com/
+
+####18.11.2015 (lindner)
+* Programming Principles
+	* GRASP bis Ende
+	* DRY
+	* KISS
+	* YAGNI
+	* Conway's Law
+
+####25.11.2015 (lindner)
+* Refactoring Refactoring (Folienstand 2010)
+	* Einleitung
+	* Motivation
+	* Einfacher Entwicklungsprozess
+    * Auswirkungen von Refactoring
+    * Exkurs Code Tuning
+	* Code Smells
+	* Spezifische Refactorings
+	* Zusatzmaterial: https://schneide.wordpress.com/2013/12/30/from-ugly-to-pretty-three-steps-is-all-it-takes/
