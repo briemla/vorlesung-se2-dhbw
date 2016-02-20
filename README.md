@@ -225,7 +225,7 @@
 	* Spezifische Refactorings
 	* Zusatzmaterial: https://schneide.wordpress.com/2013/12/30/from-ugly-to-pretty-three-steps-is-all-it-takes/
 	
-####29.09.2015 (briem)
+####16.02.2016 (briem)
 * Anforderungen an ein Big Data System
 * Lambda Architektur
 * Datenmodell
