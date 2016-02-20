@@ -225,6 +225,31 @@
 	* Spezifische Refactorings
 	* Zusatzmaterial: https://schneide.wordpress.com/2013/12/30/from-ugly-to-pretty-three-steps-is-all-it-takes/
 	
+####29.09.2015 (briem)
+* Anforderungen an ein Big Data System
+* Lambda Architektur
+* Datenmodell
+    * Eigenschaften von Daten (Rohdaten, Unveränderlichkeit)
+* Batch Schicht
+    * Aufgaben
+    * Verteilte Dateisysteme (HDFS)
+    * MapReduce Konzept
+        * Phasen
+        * Ablauf
+        * Probleme
+        * Optimierungen
+        * Pipe Diagramme
+* Abfrage Schicht
+    * Aufgaben
+    * Normalisierung / Denormalisierung
+    * Anforderungen
+* Echtzeit Schicht
+    * Aufgaben
+    * CAP Theorem
+    * Speicherung / Gültigkeit der Daten
+    * Stream basierte Verarbeitung
+* Fazit / Ausblick
+
 ### TINF13 / B4
 ####29.09.2015 (beine)
 *    Einführung: was ist Design
