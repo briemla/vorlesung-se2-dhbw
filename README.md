@@ -250,6 +250,16 @@
     * Stream basierte Verarbeitung
 * Fazit / Ausblick
 
+####23.02.2016 (briem)
+* MapReduce Entwurfsmuster
+* Arten von Entwurfsmustern
+    * Summation
+    * Filterung
+    * Vereinigung
+    * Daten Organisation
+    * Metamuster
+Weitere Codebeispiele dazu unter: https://github.com/adamjshook/mapreducepatterns
+
 ### TINF13 / B4
 ####29.09.2015 (beine)
 *    Einführung: was ist Design
