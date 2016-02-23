@@ -258,7 +258,7 @@
     * Vereinigung
     * Daten Organisation
     * Metamuster
-Weitere Codebeispiele dazu unter: https://github.com/adamjshook/mapreducepatterns
+    * Weitere Codebeispiele dazu unter: https://github.com/adamjshook/mapreducepatterns
 
 ### TINF13 / B4
 ####29.09.2015 (beine)
