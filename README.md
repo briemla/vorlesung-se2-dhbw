@@ -142,6 +142,20 @@
 *    Vor- / Nachteile einzelner Arten
 *    Vor- / Nachteile GUI Tests
 
+####16.02.2016 (lindner)
+*	Entwurfsmuster Einführung
+*	Entwurfsmuster Beobachter komplett
+*	Entwurfsmuster Dekorierer komplett
+*	Entwurfsmuster Event Bus teilweise
+
+####23.02.2016 (lindner)
+*	Softwaretests Einführung
+*	Klassifikation Testarten
+*	Unit Tests (JUnit)
+*	Mocks
+*	Test Coverage
+*	Test First Development
+
 ### TINF13 / B2
 ####29.09.2015 (briem)
 *   Definition von Bloopern / GUI Bloopern
