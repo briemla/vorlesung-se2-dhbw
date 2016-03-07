@@ -413,6 +413,7 @@
 	* Code Smells
 	* Spezifische Refactorings
 	* Zusatzmaterial: https://schneide.wordpress.com/2013/12/30/from-ugly-to-pretty-three-steps-is-all-it-takes/
+
 ####23.02.2016 (beine)
 * DevOps (DevOps-stud-2016)
 	* Was ist DevOps
