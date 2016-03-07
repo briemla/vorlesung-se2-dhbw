@@ -156,6 +156,14 @@
 *	Test Coverage
 *	Test First Development
 
+####01.03.2016 (beine)
+* DevOps (DevOps-stud-2016)
+	* Was ist DevOps
+	* DevOps-Prinzipien (CALMS)
+	* Kritik
+	* Fazit
+	* Ausblick
+	
 ### TINF13 / B2
 ####29.09.2015 (briem)
 *   Definition von Bloopern / GUI Bloopern
@@ -412,3 +420,12 @@
 	* Kritik
 	* Fazit
 	* Ausblick
+####07.03.2016 (beine)
+* 12-Factor Apps
+	* Einleitung
+	* Warum 12FA
+	* die 12 Faktoren
+* Continuous Delivery
+	* Was ist CD
+	* Warum CD
+	* die Deployment-Pipeline
