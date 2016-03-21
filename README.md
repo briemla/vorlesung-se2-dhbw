@@ -164,6 +164,43 @@
 	* Fazit
 	* Ausblick
 	
+####15.03.2016 (briem)
+* Anforderungen an ein Big Data System
+* Lambda Architektur
+* Datenmodell
+    * Eigenschaften von Daten (Rohdaten, Unveränderlichkeit)
+* Batch Schicht
+    * Aufgaben
+    * Verteilte Dateisysteme (HDFS)
+    * MapReduce Konzept
+        * Phasen
+        * Ablauf
+        * Probleme
+        * Optimierungen
+        * Pipe Diagramme
+* Abfrage Schicht
+    * Aufgaben
+    * Normalisierung / Denormalisierung
+    * Anforderungen
+* Echtzeit Schicht
+    * Aufgaben
+    * CAP Theorem
+    * Speicherung / Gültigkeit der Daten
+
+####22.03.2016 (briem)
+* Echtzeit Schicht
+    * Stream basierte Verarbeitung
+* Fazit / Ausblick
+
+* MapReduce Entwurfsmuster
+* Arten von Entwurfsmustern
+    * Summation
+    * Filterung
+    * Vereinigung
+    * Daten Organisation
+    * Metamuster
+    * Weitere Codebeispiele dazu unter: https://github.com/adamjshook/mapreducepatterns
+
 ### TINF13 / B2
 ####29.09.2015 (briem)
 *   Definition von Bloopern / GUI Bloopern
@@ -431,3 +468,38 @@
 	* Was ist CD
 	* Warum CD
 	* die Deployment-Pipeline
+
+####01.03.2016 (briem)
+* Anforderungen an ein Big Data System
+* Lambda Architektur
+* Datenmodell
+    * Eigenschaften von Daten (Rohdaten, Unveränderlichkeit)
+* Batch Schicht
+    * Aufgaben
+    * Verteilte Dateisysteme (HDFS)
+    * MapReduce Konzept
+        * Phasen
+        * Ablauf
+        * Probleme
+        * Optimierungen
+        * Pipe Diagramme
+* Abfrage Schicht
+    * Aufgaben
+    * Normalisierung / Denormalisierung
+    * Anforderungen
+* Echtzeit Schicht
+    * Aufgaben
+    * CAP Theorem
+    * Speicherung / Gültigkeit der Daten
+    * Stream basierte Verarbeitung
+* Fazit / Ausblick
+
+####08.03.2016 (briem)
+* MapReduce Entwurfsmuster
+* Arten von Entwurfsmustern
+    * Summation
+    * Filterung
+    * Vereinigung
+    * Daten Organisation
+    * Metamuster
+    * Weitere Codebeispiele dazu unter: https://github.com/adamjshook/mapreducepatterns
